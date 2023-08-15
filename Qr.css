@@ -18,7 +18,7 @@ html {
 
 .card {
 	background-color: hsl(0, 0%, 100%);
-	box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.1);
+	box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.2);
 	padding: 15px;
 	width: 37vh;
 	height: 60vh;
